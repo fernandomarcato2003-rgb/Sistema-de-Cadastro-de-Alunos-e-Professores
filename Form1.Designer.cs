@@ -116,7 +116,8 @@
             textBox1.Location = new Point(161, 264);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(529, 27);
-            textBox1.TabIndex = 8;
+            textBox1.TabIndex = 0;
+            textBox1.KeyDown += textBox1_KeyDown;
             // 
             // Form1
             // 

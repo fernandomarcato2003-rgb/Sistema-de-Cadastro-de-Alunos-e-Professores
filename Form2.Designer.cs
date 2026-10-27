@@ -117,6 +117,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(573, 27);
             textBox1.TabIndex = 8;
+            textBox1.KeyDown += textBox1_KeyDown;
             // 
             // Form2
             // 

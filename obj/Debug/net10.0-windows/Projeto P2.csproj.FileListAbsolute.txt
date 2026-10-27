@@ -1,0 +1,18 @@
+C:\Users\ferna\source\repos\Projeto P2\bin\Debug\net10.0-windows\Projeto P2.exe
+C:\Users\ferna\source\repos\Projeto P2\bin\Debug\net10.0-windows\Projeto P2.deps.json
+C:\Users\ferna\source\repos\Projeto P2\bin\Debug\net10.0-windows\Projeto P2.runtimeconfig.json
+C:\Users\ferna\source\repos\Projeto P2\bin\Debug\net10.0-windows\Projeto P2.dll
+C:\Users\ferna\source\repos\Projeto P2\bin\Debug\net10.0-windows\Projeto P2.pdb
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto_P2.Form1.resources
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto_P2.Form2.resources
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.AssemblyInfo.cs
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.dll
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\refint\Projeto P2.dll
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.pdb
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\ref\Projeto P2.dll
+C:\Users\ferna\source\repos\Projeto P2\obj\Debug\net10.0-windows\Projeto P2.csproj.Up2Date
